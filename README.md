@@ -8,3 +8,9 @@ am3287
 asdf
 ## Favorite Professor
 $(YOUR_FAVORITE_PROFESSOR)
+kmf0302
+kmf0302
+## EUID
+kmf0302
+## Favorite Professor
+Kralik
